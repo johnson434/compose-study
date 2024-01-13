@@ -1,38 +1,38 @@
 # Compose 스터디
 
-[Part1. Jetpack Compose의 기본 개념](#Part1.-Jetpack-Compose의-기본-개념)
+[Part1. Jetpack Compose의 기본 개념](#part1.-jetpack-compose의-기본-개념)
 
 [컴포즈의 핵심 개념](#컴포즈의-핵심-개념)
 
 [선언형 패러다임](#선언형-패러다임)
 
-[@Preview](#@Preview)
+[@Preview](#@preview)
 
 [선언형 패러다임의 이해](#선언형-패러다임의-이해)
 
 [컴포즈의 핵심 개념](#컴포즈의-핵심-개념)
 
-[Part2. UI 만들기](#Part2.-UI-만들기)
+[Part2. UI 만들기](#part2.-ui-만들기)
 
-[Compose로 UI 작성하기](#Compose로-UI-작성하기)
+[Compose로 UI 작성하기](#compose로-ui-작성하기)
 
-[Composable 함수의 State 관리하기](#Composable-함수의-State-관리하기)
+[Composable 함수의 State 관리하기](#composable-함수의-state-관리하기)
 
 [현실적인 컴포즈 앱 만들기](#현실적인-컴포즈-앱-만들기)
 
 [앱 아키텍처 탐구](#앱-아키텍처-탐구)
 
-[Part3. 고급 주제](#Part3.-고급-주제)
+[Part3. 고급 주제](#part3.-고급-주제)
 
 [애니메이션 다루기](#애니메이션-다루기)
 
-[API 상호 운용 탐구](#API-상호-운용-탐구)
+[API 상호 운용 탐구](#api-상호-운용-탐구)
 
-[Compose앱 테스트와 디버깅](#Compose앱-테스트와-디버깅)
+[Compose앱 테스트와 디버깅](#compose앱-테스트와-디버깅)
 
 [다른 형식을 위한 개발](#다른-형식을-위한-개발)
 
-[다른 플랫폼에 컴포즈 UI 적용하기](#다른-플랫폼에-컴포즈-UI-적용하기)
+[다른 플랫폼에 컴포즈 UI 적용하기](#다른-플랫폼에-컴포즈-ui-적용하기)
 
 
 ## Part1. Jetpack Compose의 기본 개념

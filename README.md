@@ -1,6 +1,6 @@
 # Compose 스터디
 
-[Part1. Jetpack Compose의 기본 개념](#part1.-jetpack-compose의-기본-개념)
+[Part1. Jetpack Compose의 기본 개념](#part1-jetpack-compose의-기본-개념)
 
 [컴포즈의 핵심 개념](#컴포즈의-핵심-개념)
 
@@ -12,7 +12,7 @@
 
 [컴포즈의 핵심 개념](#컴포즈의-핵심-개념)
 
-[Part2. UI 만들기](#part2.-ui-만들기)
+[Part2. UI 만들기](#part2-ui-만들기)
 
 [Compose로 UI 작성하기](#compose로-ui-작성하기)
 
@@ -22,7 +22,7 @@
 
 [앱 아키텍처 탐구](#앱-아키텍처-탐구)
 
-[Part3. 고급 주제](#part3.-고급-주제)
+[Part3. 고급 주제](#part3-고급-주제)
 
 [애니메이션 다루기](#애니메이션-다루기)
 
